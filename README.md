@@ -1,5 +1,10 @@
 # Hospital-Emergency-care-
 The Hospital Emergency Care dataset from Portugal is a real-world healthcare dataset that captures detailed information about patients’ visits to hospital emergency departments (EDs) across the country.
+
+# Tools
+
+Rscript, Excel & Rstudio
+
 # Purpose of the Dataset
 This dataset is often used for data analysis, machine learning, and healthcare research, helping stakeholders understand:
 
